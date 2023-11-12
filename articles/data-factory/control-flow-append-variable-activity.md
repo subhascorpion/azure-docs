@@ -18,7 +18,7 @@ Use the Append Variable activity to add a value to an existing array variable de
 
 ## Create an Append Variable activity with UI
 
-To use a Append Variable activity in a pipeline, complete the following steps:
+To use an Append Variable activity in a pipeline, complete the following steps:
 
 1. Select the background of the pipeline canvas and use the Variables tab to add an array type variable:
 
